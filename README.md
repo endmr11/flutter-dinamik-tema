@@ -1,6 +1,6 @@
 # tema_degisimi
 
-A new Flutter project.
+Provider Paketi Kullanarak Dinamik Tema Yapımı.
 
 ## Getting Started
 
